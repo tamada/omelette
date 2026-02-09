@@ -1,8 +1,11 @@
+# Omelette
+
+> [!CAUTION]
+> This project is no longer actively maintained.
+
 [![codebeat badge](https://codebeat.co/badges/23134092-de46-44aa-942c-5d4a070eaf3c)](https://codebeat.co/projects/github-com-tamada-omelette-master)
 [![License](https://img.shields.io/badge/License-WTFPL-blue.svg)](https://github.com/tamada/omelette/blob/master/LICENSE)
 [![Version](https://img.shields.io/badge/Version-1.1.1-yellowgreen.svg)](https://github.com/tamada/omelette/releases/tag/v1.1.1)
-
-# Omelette
 
 An agent for running the unit tests on the CLI environment for the Java platform.
 
@@ -18,7 +21,6 @@ Running the unit tests and calculating test coverages usually requires software 
 It is generally tiresome for calculating test coverages of toy programs with their unit tests.
 
 Therefore, we developed `omelette` for running unit tests and calculating test coverages in the CLI environment for the Java platform.
-
 
 ## :runner: Usage
 
